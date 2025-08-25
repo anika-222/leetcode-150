@@ -1,3 +1,4 @@
+#create a hashmap that stores how many of each character is in each string
 class Solution:
     #remember to add length check at the beginning
     #can use default instead of two if/elses

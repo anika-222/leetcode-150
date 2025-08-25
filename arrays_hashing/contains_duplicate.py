@@ -1,3 +1,4 @@
+#use the fact that hash sets store only 1 of each character added to them - unique elements only
 class Solution:
     def hasDuplicate(self, nums: List[int]) -> bool:
         duplicateSet = set()
